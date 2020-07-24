@@ -1,6 +1,7 @@
 # ProjetoControleDeEstoque
 
-### Descrição
+
+<h3>Descrição</h3>
 
 Projeto pessoal de um sistema desktop para controle de estoque, utilizado **Java** para o desenvolvimento e o banco de dados **MySQL**.
 
@@ -14,6 +15,7 @@ Projeto pessoal de um sistema desktop para controle de estoque, utilizado **Java
 - Criar Sistema de Autenticação (Login) com Nível de Acesso (Ex. Usuário e Administrador).
 
 
-**Telas do Sistema**
+
+<h3>Telas do Sistema</h3>
 
 1°) Tela de Login
