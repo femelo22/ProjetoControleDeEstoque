@@ -1,12 +1,12 @@
 # ProjetoControleDeEstoque
 
- **Descrição**
+### Descrição
 
 Projeto pessoal de um sistema desktop para controle de estoque, utilizado **Java** para o desenvolvimento e o banco de dados **MySQL**.
 
 
 
-**Alguns pontos importantes que foram aprendidos com o estudo:**
+<h3>Alguns pontos importantes que foram aprendidos com o estudo:</h3>
 
 - Criar aplicações com conexão a banco de dados MYSQL com a linguagem java.
 - Entender na prática o padrão de Model, View e Controller.
