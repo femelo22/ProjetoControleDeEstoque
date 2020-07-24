@@ -15,7 +15,3 @@ Projeto pessoal de um sistema desktop para controle de estoque, utilizado **Java
 - Criar Sistema de Autenticação (Login) com Nível de Acesso (Ex. Usuário e Administrador).
 
 
-
-<h3>Telas do Sistema</h3>
-
-1°) Tela de Login
