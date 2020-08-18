@@ -19,8 +19,11 @@ Projeto pessoal de um sistema desktop para controle de estoque, utilizado **Java
 <h3>Como rodar o projeto localhost:</h3>
 
 1° Faça o download do projeto ou clone o repositório com: https://github.com/femelo22/ProjetoControleDeEstoque.git
+
 2° Rode o script do SQL em sua máquina (o script se encontra no bdvendasSQL.txt).
+
 3° O executável se encontra no diretório <b>ProjetoControleDeEstoque/dist/ControleDeVendas.jar</b>
+
 4° Ao abrir, você será redirecionado para uma tela de login, insira as credenciais admin/admin e comece a explorar.
 
 
